@@ -1,0 +1,19 @@
+.container {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+  /*header*/
+.sfondo-top{
+    height: 100px;
+    background-color: dodgerblue;
+    background-image:url('../img/pattern.png');
+    background-size:200px;
+    
+}
+.logo {
+    height: 100%;
+    background-image: url('../img/logo.svg');
+   background-repeat: no-repeat;
+   background-position: 0 20px;
+   background-size: 200px;
+}
