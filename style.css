@@ -20,6 +20,7 @@ body{
    background-position: 0 20px;
    background-size: 200px;
 }
+  /*main*/
 h1{
     margin-bottom: 0;
 }
@@ -53,10 +54,18 @@ table{
 }
 th{
 color: white;
-padding-left: 20px;
+
+
+}
+.head{
+   width: 155px;
+   
 }
 .ultimacolonna{
-    padding-left: 400px;
+    padding-left: 320px;
+}
+.sfondotabella{
+    background-color: lightblue;
 }
 #text-color{
     color: grey;
