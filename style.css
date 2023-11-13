@@ -1,3 +1,6 @@
+body{
+    margin:0;
+}
 .container {
     max-width: 1080px;
     margin: 0 auto;
@@ -16,4 +19,25 @@
    background-repeat: no-repeat;
    background-position: 0 20px;
    background-size: 200px;
+}
+h1{
+    margin-bottom: 0;
+}
+.title-bottom{
+    color: grey;
+}
+#text {
+    color: lightblue;
+}
+.date{
+    color: grey;
+    font-size: 10px;
+}
+.foto{
+    margin-top: 20px;
+    font-size: 12px;
+    
+}
+span{
+    background-color: yellow;
 }
