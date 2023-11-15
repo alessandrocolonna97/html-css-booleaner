@@ -43,7 +43,8 @@ h1{
     background-color: yellow;
 }
 ul{
-    margin-left: -30px;
+  padding-inline-start: 0;
+  list-style-position: inside;
 }
 thead{
 background-color: dodgerblue;
@@ -54,16 +55,15 @@ table{
 }
 th{
 color: white;
-
+text-align: left;
 
 }
-.head{
-   width: 155px;
+.ultimariga{
+    width: 50%;
+}
+
    
-}
-.ultimacolonna{
-    padding-left: 320px;
-}
+
 .sfondotabella{
     background-color: lightblue;
 }
